@@ -4,6 +4,7 @@
 
 - Practicing Data structures & Algorithms 🧠🤯
 - Contributing to Open-Source more 💌
+- Building more impactful projects
 
 
 
