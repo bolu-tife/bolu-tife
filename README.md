@@ -4,7 +4,8 @@
 
 - Practicing Data structures & Algorithms 🧠🤯
 - Contributing to Open-Source more 💌
-- Building more impactful projects
+- Learning the MERN stack 🥳
+- Building more impactful projects ✅
 
 
 
