@@ -4,9 +4,9 @@
 
 - Practicing Data structures & Algorithms 🧠🤯
 - Contributing to Open-Source more 💌
-- Learning the MERN stack 🥳
+- Learning system design 😎
 - More impactful projects ✅
-- My portfolio 👩🏾‍💻
+- Building my portfolio 👩🏾‍💻
 
 
 
@@ -18,7 +18,7 @@
 **bolu-tife/bolu-tife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Learning the MERN stack 🥳
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
